@@ -15,5 +15,5 @@ def batch_badge_creator
   "Hello, my name is Matz."
 ]
 
-
+end
 end
