@@ -3,7 +3,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(attendees,name)
-  ["Hello, my name is Edsger.",
+  if ["Hello, my name is Edsger.",
   "Hello, my name is Ada.",
   "Hello, my name is Charles.",
   "Hello, my name is Alan.",
