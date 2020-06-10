@@ -2,7 +2,7 @@ def badge_maker(name)
    "Hello, my name is #{name}."
 end
 
-def batch_badge_creator(attendees)
+def batch_badge_creator(attendees,johnny)
  ["Hello, my name is Edsger.",
   "Hello, my name is Ada.",
   "Hello, my name is Charles.",
@@ -10,9 +10,5 @@ def batch_badge_creator(attendees)
   "Hello, my name is Grace.",
   "Hello, my name is Linus.",
   "Hello, my name is Matz."
-]
-end
-def batch_badge_creator(johnny)
-  ["Hello, my name is Johnny."]
-
+]  ["Hello, my name is Johnny."]
 end
