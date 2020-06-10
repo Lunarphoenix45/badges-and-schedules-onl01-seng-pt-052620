@@ -11,7 +11,6 @@ def batch_badge_creator(attendees,name)
   "Hello, my name is Linus.",
   "Hello, my name is Matz."
 ]
- else
-   "Hello, my name is #{name}."
+ elsif "Hello, my name is #{name}."
  end
 end
