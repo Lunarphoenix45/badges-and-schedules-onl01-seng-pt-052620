@@ -10,7 +10,7 @@ def batch_badge_creator(attendees)
   "Hello, my name is Grace.",
   "Hello, my name is Linus.",
   "Hello, my name is Matz."
-] 
+]
 batch_badge_creator(johnny)
   ["Hello, my name is Johnny."]
 
