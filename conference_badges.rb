@@ -19,5 +19,5 @@ end
 def printer
 puts line.chomp
 
-end
+
 end
