@@ -17,5 +17,7 @@ def assign_rooms
 
 end
 def printer
+puts line.chomp
 
+end
 end
